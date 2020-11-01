@@ -1,12 +1,10 @@
 import React from "react";
 import { Slider } from "@material-ui/core";
 
-const AnswerSlider = (props) => {
-  const { name, getAriaValueText } = props;
-
+const AnswerSlider = ({ name, getAriaValueText, className }) => {
   return (
     <Slider
-      className={"answerSlider"}
+      className={className}
       name={name}
       defaultValue={0}
       getAriaValueText={getAriaValueText}

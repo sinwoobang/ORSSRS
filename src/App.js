@@ -1,6 +1,7 @@
-import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
+
 import ORS from "./containers/ORS/ORS";
+import React from "react";
 
 const App = () => {
   return (
