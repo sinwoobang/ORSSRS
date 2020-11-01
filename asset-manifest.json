@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ORSSRS/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ORSSRS/static/js/main.a39c2e10.chunk.js",
+    "main.js.map": "/ORSSRS/static/js/main.a39c2e10.chunk.js.map",
+    "runtime-main.js": "/ORSSRS/static/js/runtime-main.38f02cb7.js",
+    "runtime-main.js.map": "/ORSSRS/static/js/runtime-main.38f02cb7.js.map",
+    "static/js/2.e4f89d69.chunk.js": "/ORSSRS/static/js/2.e4f89d69.chunk.js",
+    "static/js/2.e4f89d69.chunk.js.map": "/ORSSRS/static/js/2.e4f89d69.chunk.js.map",
+    "index.html": "/ORSSRS/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ORSSRS/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e4f89d69.chunk.js.LICENSE.txt": "/ORSSRS/static/js/2.e4f89d69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f02cb7.js",
+    "static/js/2.e4f89d69.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a39c2e10.chunk.js"
+  ]
+}
